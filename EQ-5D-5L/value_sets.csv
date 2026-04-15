@@ -1,44 +1,45 @@
-"Version","Name","Name_short","Country_code","VS_code","doi"
-"5L","Australia","Australia","AU","AU","10.1007/s40273-023-01243-0"
-"5L","Belgium","Belgium","BE","BE","10.1007/s41669-022-00353-3"
-"5L","Canada","Canada","CA","CA","10.1097/MLR.0000000000000447"
-"5L","China","China","CN","CN","10.1016/j.jval.2016.11.016"
-"5L","Denmark","Denmark","DK","DK","10.1007/s40258-021-00639-3"
-"5L","Ethiopia","Ethiopia","ET","ET","10.1016/j.vhri.2019.08.475"
-"5L","France","France","FR","FR","10.1007/s40273-019-00876-4"
-"5L","Germany","Germany","DE","DE","10.1007/s40273-018-0615-8"
-"5L","Ghana","Ghana","GH","GH","10.1016/j.vhri.2024.101045"
-"5L","China, Hong Kong Special Administrative Region","Hong Kong","HK","HK","10.1007/s40271-017-0278-0"
-"5L","Hungary","Hungary","HU","HU","10.1016/j.jval.2020.03.019"
-"5L","India","India","IN","IN","10.1016/j.jval.2021.11.1370"
-"5L","Indonesia","Indonesia","ID","ID","10.1007/s40273-017-0538-9"
-"5L","Iran (Islamic Republic of)","Iran","IR","IR","10.1007/s11136-023-03378-1"
-"5L","Ireland","Ireland","IE","IE","10.1007/s40273-018-0690-x"
-"5L","Italy","Italy","IT","IT","10.1016/j.socscimed.2021.114519"
-"5L","Japan","Japan","JP","JP","10.1016/j.jval.2016.03.1834"
-"5L","Republic of Korea","Korea","KR","KR","10.1007/s11136-015-1205-2"
-"5L","Malaysia","Malaysia","MY","MY","10.1007/s40273-018-0758-7"
-"5L","Mexico","Mexico","MX","MX","10.1007/s40258-021-00658-0"
-"5L","Morocco","Morocco","MA","MA","10.1007/s11136-025-03930-1"
-"5L","Netherlands","Netherlands","NL","NL","10.1016/j.jval.2016.01.003"
-"5L","New Zealand","New Zealand","NZ","NZ","10.1016/j.socscimed.2019.112707"
-"5L","Norway","Norway","NO","NO","10.1007/s11136-024-03837-3"
-"5L","Peru","Peru","PE","PE","10.1016/j.jval.2020.05.004"
-"5L","Philippines","Philippines","PH","PH","10.1007/s11136-022-03143-w"
-"5L","Poland","Poland","PL","PL","10.1007/s40273-019-00811-7"
-"5L","Portugal","Portugal","PT","PT","10.1007/s11136-019-02226-5"
-"5L","Romania","Romania","RO","RO","10.1007/s10198-022-01481-7"
-"5L","Saudi Arabia","Saudi Arabia","SA","SA","10.1016/j.jval.2024.01.017"
-"5L","Slovenia","Slovenia","SI","SI","10.1007/s40273-023-01280-9"
-"5L","Spain","Spain","ES","ES","10.1016/j.jval.2017.10.023"
-"5L","Sweden","Sweden","SE","SE_2020","10.1007/s40273-020-00905-7"
-"5L","Sweden","Sweden","SE","SE_2022","10.1186/s12955-022-02083-w"
-"5L","Taiwan","Taiwan","TW","TW","10.1371/journal.pone.0209344"
-"5L","Thailand","Thailand","TH","TH","10.1080/14737167.2018.1494574"
-"5L","Trinidad and Tobago","Trinidad and Tobago","TT","TT","10.1186/s12955-024-02266-7"
-"5L","Uganda","Uganda","UG","UG","10.1007/s40273-021-01101-x"
-"5L","United Arab Emirates","United Arab Emirates","AE","AE","10.1016/j.jval.2025.01.003"
-"5L","Uruguay","Uruguay","UY","UY","10.1007/s11136-015-1086-4"
-"5L","United States of America","USA","US","US","10.1016/j.jval.2019.02.009"
-"5L","Vietnam","Vietnam","VN","VN","10.1007/s11136-020-02469-7"
-"5L","United Kingdom of Great Britain and Northern Ireland","United Kingdom","UK","UK","10.1016/j.jval.2026.03.008"
+Version,Name,Name_short,Country_code,VS_code,doi
+5L,Australia,Australia,AU,AU,10.1007/s40273-023-01243-0
+5L,Belgium,Belgium,BE,BE,10.1007/s41669-022-00353-3
+5L,Canada,Canada,CA,CA,10.1097/MLR.0000000000000447
+5L,China,China,CN,CN,10.1016/j.jval.2016.11.016
+5L,Denmark,Denmark,DK,DK,10.1007/s40258-021-00639-3
+5L,Ethiopia,Ethiopia,ET,ET,10.1016/j.vhri.2019.08.475
+5L,France,France,FR,FR,10.1007/s40273-019-00876-4
+5L,Germany,Germany,DE,DE,10.1007/s40273-018-0615-8
+5L,Ghana,Ghana,GH,GH,10.1016/j.vhri.2024.101045
+5L,"China, Hong Kong Special Administrative Region",Hong Kong,HK,HK,10.1007/s40271-017-0278-0
+5L,Hungary,Hungary,HU,HU,10.1016/j.jval.2020.03.019
+5L,India,India,IN,IN,10.1016/j.jval.2021.11.1370
+5L,Indonesia,Indonesia,ID,ID,10.1007/s40273-017-0538-9
+5L,Iran (Islamic Republic of),Iran,IR,IR,10.1007/s11136-023-03378-1
+5L,Ireland,Ireland,IE,IE,10.1007/s40273-018-0690-x
+5L,Italy,Italy,IT,IT,10.1016/j.socscimed.2021.114519
+5L,Japan,Japan,JP,JP,10.1016/j.jval.2016.03.1834
+5L,Republic of Korea,Korea,KR,KR,10.1007/s11136-015-1205-2
+5L,Malaysia,Malaysia,MY,MY,10.1007/s40273-018-0758-7
+5L,Mexico,Mexico,MX,MX,10.1007/s40258-021-00658-0
+5L,Morocco,Morocco,MA,MA,10.1007/s11136-025-03930-1
+5L,Netherlands,Netherlands,NL,NL,10.1016/j.jval.2016.01.003
+5L,New Zealand,New Zealand,NZ,NZ,10.1016/j.socscimed.2019.112707
+5L,Norway,Norway,NO,NO,10.1007/s11136-024-03837-3
+5L,Peru,Peru,PE,PE,10.1016/j.jval.2020.05.004
+5L,Philippines,Philippines,PH,PH,10.1007/s11136-022-03143-w
+5L,Poland,Poland,PL,PL,10.1007/s40273-019-00811-7
+5L,Portugal,Portugal,PT,PT,10.1007/s11136-019-02226-5
+5L,Romania,Romania,RO,RO,10.1007/s10198-022-01481-7
+5L,Saudi Arabia,Saudi Arabia,SA,SA,10.1016/j.jval.2024.01.017
+5L,Slovenia,Slovenia,SI,SI,10.1007/s40273-023-01280-9
+5L,Spain,Spain,ES,ES,10.1016/j.jval.2017.10.023
+5L,Sweden,Sweden,SE,SE_2020,10.1007/s40273-020-00905-7
+5L,Sweden,Sweden,SE,SE_2022,10.1186/s12955-022-02083-w
+5L,Taiwan,Taiwan,TW,TW,10.1371/journal.pone.0209344
+5L,Thailand,Thailand,TH,TH,10.1080/14737167.2018.1494574
+5L,Trinidad and Tobago,Trinidad and Tobago,TT,TT,10.1186/s12955-024-02266-7
+5L,Uganda,Uganda,UG,UG,10.1007/s40273-021-01101-x
+5L,United Arab Emirates,United Arab Emirates,AE,AE,10.1016/j.jval.2025.01.003
+5L,Uruguay,Uruguay,UY,UY,10.1007/s11136-015-1086-4
+5L,United States of America,USA,US,US,10.1016/j.jval.2019.02.009
+5L,Vietnam,Vietnam,VN,VN,10.1007/s11136-020-02469-7
+5L,United Kingdom of Great Britain and Northern Ireland,United Kingdom,UK,UK,10.1016/j.jval.2026.03.008
+5L,Test,Test,Test,Test,Test
