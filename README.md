@@ -9,6 +9,7 @@ the eq5dsuite tools to support automatic value set updates.
 
 ```{r}
 eq5dsuite-value-sets/
+├── migrations.csv         # Historical value set renames
 ├── EQ-5D-3L/
 │   ├── value_sets.csv     # Index of all available 3L value sets
 │   └── [VS_code].csv      # One file per value set
@@ -21,6 +22,31 @@ eq5dsuite-value-sets/
 ```
 
 ## File formats
+
+### migrations.csv
+Records all historical value set renames. This file is read by
+the eq5dsuite R package to automatically rename installed value
+sets when there are several value sets available for a country.
+The original code needs to be disambiguated with a year/method suffix.
+
+| Column | Description |
+|---|---|
+| version | Instrument version (3L, 5L, Y3L) |
+| old_VS_code | The original VS_code being renamed |
+| new_VS_code | The new VS_code to use |
+| reason | Brief explanation of why the rename was needed |
+| date | Date the migration was added (YYYY-MM-DD) |
+
+**When to add a migration row:**
+- A second value set is published for a country that already
+  has one (e.g. Netherlands publishes a 2026 set when the code NL already exists
+  refering to the value set published in 2006)
+- A VS_code needs to be corrected for clarity (e.g. adding a
+  method suffix like _TTO or _VAS)
+
+**Important:** never delete rows from migrations.csv. Rows are
+used to track which renames have already been applied to each
+user's installation.
 
 ### value_sets.csv
 Index file listing all available value sets for each instrument:
