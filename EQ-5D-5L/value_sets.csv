@@ -2,7 +2,8 @@ Version,Name,Name_short,Country_code,VS_code,doi
 5L,Australia,Australia,AU,AU,10.1007/s40273-023-01243-0
 5L,Belgium,Belgium,BE,BE,10.1007/s41669-022-00353-3
 5L,Canada,Canada,CA,CA,10.1097/MLR.0000000000000447
-5L,China,China,CN,CN,10.1016/j.jval.2016.11.016
+5L,China,China,CN_new,CN_new,10.1016/j.jval.2016.11.015
+5L,China,China,CN_old,CN_old,10.1016/j.jval.2016.11.016
 5L,Denmark,Denmark,DK,DK,10.1007/s40258-021-00639-3
 5L,Ethiopia,Ethiopia,ET,ET,10.1016/j.vhri.2019.08.475
 5L,France,France,FR,FR,10.1007/s40273-019-00876-4
