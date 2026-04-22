@@ -59,6 +59,7 @@ Index file listing all available value sets for each instrument:
 | Country_code | ISO country code |
 | VS_code | Unique identifier used as filename |
 | doi | DOI of the source publication |
+| citation | citation of the source publication |
 
 ### [VS_code].csv
 Individual value set file with two columns:
