@@ -1,4 +1,3 @@
-"version","old_VS_code","new_VS_code","reason","date"
-"3L","NL","NL_2006","Second value set published","2025-01-01"
-"3L","DE","DE_TTO","Clarify method","2025-01-01"
-"5L","CN","CN_old","New value set","2026-04-20"
+version,old_VS_code,new_VS_code,reason,date
+3L,NL,NL_2006,Second value set published,01/01/2025
+3L,DE,DE_TTO,Clarify method,01/01/2025
